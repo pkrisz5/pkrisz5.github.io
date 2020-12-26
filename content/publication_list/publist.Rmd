@@ -1,0 +1,9 @@
+---
+title: "List of Publications"
+output: html_document
+bibliography: works.bib
+csl: style.csl
+nocite: '@*' # This line gives all references, not only cited one
+---
+
+
